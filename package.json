@@ -1,8 +1,0 @@
-{
-  "name": "firebase",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "git@github.com:zeluizr/integramme-firebase.git",
-  "author": "Jose Luiz Rodrigues <jrodrigues@webimpacto.es>",
-  "license": "MIT"
-}
